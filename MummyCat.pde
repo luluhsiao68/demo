@@ -6,8 +6,8 @@ class MummyCat extends Enemy {
     img = loadImage("img/mummyCat.png") ;
     this.x = x;
     this.y = y;
-    this.w = 80;
-    this.h = 80;
+    this.w = 90;
+    this.h = 90;
   }
 
   void display() {
